@@ -1,0 +1,20 @@
+@include media("screen", ">md", "<=lg") {
+
+}
+
+@include media("screen", "<=md") {
+
+
+}
+
+@include media("screen", ">=xxl", "<=3xl") {
+
+}
+
+@include media("screen", ">lg", "<=xxl") {
+
+}
+
+@include media("screen", ">=xxl", "<=3xl") {
+
+}

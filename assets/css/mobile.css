@@ -1,0 +1,40 @@
+.displayResposive {
+  display: none;
+}
+@media screen and (min-width: 1px) and (max-width: 576px) {
+  .displayResposive.show-xs {
+    display: block;
+  }
+}
+@media screen and (min-width: 577px) and (max-width: 768px) {
+  .displayResposive.show-sm {
+    display: block;
+  }
+}
+@media screen and (min-width: 769px) and (max-width: 992px) {
+  .displayResposive.show-md {
+    display: block;
+  }
+}
+@media screen and (min-width: 993px) and (max-width: 1200px) {
+  .displayResposive.show-lg {
+    display: block;
+  }
+}
+@media screen and (min-width: 1201px) and (max-width: 1400px) {
+  .displayResposive.show-xl {
+    display: block;
+  }
+}
+@media screen and (min-width: 1401px) and (max-width: 1920px) {
+  .displayResposive.show-xxl {
+    display: block;
+  }
+}
+@media screen and (min-width: 1921px) {
+  .displayResposive.show-3xl {
+    display: block;
+  }
+}
+
+/*# sourceMappingURL=mobile.css.map */

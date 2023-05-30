@@ -1,0 +1,17 @@
+@include media("screen", ">md", "<=lg") {
+
+
+}
+
+@include media("screen", ">sm", "<=md") {
+
+
+}
+
+@include media("screen", "<=sm") {
+
+}
+
+@include media("screen", ">lg", "<=xxl") {
+
+}
